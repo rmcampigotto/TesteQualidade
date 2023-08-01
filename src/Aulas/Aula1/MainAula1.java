@@ -1,8 +1,8 @@
-import Aulas.Aula1;
-import javax.swing.JOptionPane;
-import java.lang.Object;
+package Aulas.Aula1;
 
-public class Main {
+import javax.swing.JOptionPane;
+
+public class MainAula1 {
     public static void main(String[] args) {
 
         double[] vet = {10, 20, 30};

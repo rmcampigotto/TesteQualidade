@@ -1,4 +1,4 @@
-package Aulas;
+package Aulas.Aula1;
 
 public class Aula1 {
     public double caucularMedia(double[] valores){
